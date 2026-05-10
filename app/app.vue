@@ -36,9 +36,9 @@
 
 <script setup lang="ts">
 useHead({
-  title: 'SKYLONGE — Comming Soon',
+  title: 'SKYLONGE',
   meta: [
-    { name: 'description', content: 'SKYLONGE — Comming soon.' }
+    { name: 'description', content: 'SKYLONGE' }
   ]
 })
 </script>
